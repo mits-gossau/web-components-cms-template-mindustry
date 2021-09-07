@@ -29,7 +29,7 @@ export default class MIndustryHeader extends Header {
   }
 
   renderHTML () {
-
+    console.log('test');
   }
 
   
